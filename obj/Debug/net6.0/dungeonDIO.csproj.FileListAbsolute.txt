@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\bin\Debug\net6.0\dungeonDIO.exe
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\bin\Debug\net6.0\dungeonDIO.deps.json
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\bin\Debug\net6.0\dungeonDIO.runtimeconfig.json
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\bin\Debug\net6.0\dungeonDIO.dll
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\bin\Debug\net6.0\ref\dungeonDIO.dll
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\bin\Debug\net6.0\dungeonDIO.pdb
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\obj\Debug\net6.0\dungeonDIO.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\obj\Debug\net6.0\dungeonDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\obj\Debug\net6.0\dungeonDIO.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\obj\Debug\net6.0\dungeonDIO.AssemblyInfo.cs
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\obj\Debug\net6.0\dungeonDIO.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\obj\Debug\net6.0\dungeonDIO.dll
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\obj\Debug\net6.0\ref\dungeonDIO.dll
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\obj\Debug\net6.0\dungeonDIO.pdb
+C:\Users\vinic\Desktop\ADS\C#\DigitalInnovationOne\dungeonDIO\obj\Debug\net6.0\dungeonDIO.genruntimeconfig.cache
